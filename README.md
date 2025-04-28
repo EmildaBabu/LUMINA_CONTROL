@@ -9,8 +9,8 @@ Design a smart lighting system using an ESP8266, with a potentiometer for manual
 *  Potentiometer
 
 ## CONNECTION
-**potentiometer ➞ NodeMCU**
-* 1st pin ➞ vcc
+**Potentiometer ➞ NodeMCU**
+* 1st pin  ➞ vcc
 * 2nd pin ➞ A0(Analog pin)
 * 3rd pin ➞ GND
 
