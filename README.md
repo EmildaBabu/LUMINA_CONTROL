@@ -26,7 +26,8 @@ Step 3: Update the program code to achieve the desired output readings on the Se
 
 
 ## WORKING
-**In Serial monitor**   
+//In Serial monitor
+
 **SMART HOME** 
   
   a) Auto Mode  
@@ -78,3 +79,4 @@ b) Manual Mode
 c) exit  
 
 Choose Your option......
+## OUTPUT
