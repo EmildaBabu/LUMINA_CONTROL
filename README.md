@@ -1,4 +1,4 @@
-# **LUMINA_CONTROL**
+# **Lumina_control**
 This innovative project features an ESP8266-based Smart Lighting System, combining Potentiometer and LED lighting for automated and intelligent illumination.
 
 ## AIM
@@ -58,7 +58,6 @@ b) Manual Mode
 c) exit  
 
 Choose Your option......  
-
 
 if 'b' is Typed  
 
