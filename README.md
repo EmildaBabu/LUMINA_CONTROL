@@ -79,4 +79,6 @@ b) Manual Mode
 c) exit  
 
 Choose Your option......
+
 ## OUTPUT
+<img src= "https://github.com/EmildaBabu/LUMINA_CONTROL/blob/8bd211e2899bc4415421f02195e20a4aaba78221/output.jpg?raw=true" alt="output" width="300" height="400">
