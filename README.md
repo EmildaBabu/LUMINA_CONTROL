@@ -20,7 +20,7 @@ Design a smart lighting system using an ESP8266, with a potentiometer for manual
 
 Step 1: Connect the ESP8266 microcontroller to the Arduino IDE through the appropriate communication port.  
 
-Step 2: Interface the ESP8266 with a potentiometer and display the analog resistance values on the Serial Monitor.  
+Step 2: Interface the ESP8266 with a potentiometer (Replacing the potentiometer with an LDR can also provide accurate results ) and display the analog resistance values on the Serial Monitor.  
 
 Step 3: Update the program code to achieve the desired output readings on the Serial Monitor.  
 
